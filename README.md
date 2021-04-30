@@ -1,6 +1,8 @@
-# AngularMarkmap
+# AngularMarkmap ShowCase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.5.
+
+![](img/screenshot.png)
 
 ## Development server
 
