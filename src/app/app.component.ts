@@ -24,7 +24,7 @@ export class AppComponent implements OnInit {
     // var markdownUrl = '/assets/node.md';
     // var markdown = await this.http.get(markdownUrl, { responseType : 'text'}).toPromise();
 
-    //Load from string : do not pu leading spaces
+    //Load from string : do not put leading spaces
     var markdown:string = `
 # Node
 ## Title 0
